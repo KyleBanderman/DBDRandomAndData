@@ -1,0 +1,109 @@
+[
+  {
+    "killer" : "Trapper",
+    "1" : "None",
+    "2" : "Bear Oil",
+    "3" : "Makeshift Wrap",
+    "4" : "Padded Jaws",
+    "5" : "Trapper Gloves"
+
+  },
+  {
+    "killer" : "Wraith",
+    "1" : "Brown1",
+    "2" : "Brown2"
+  },
+  {
+    "killer" : "Hillbilly"
+  },
+  {
+    "killer" : "Nurse"
+  },
+  {
+    "killer" : "Shape"
+  },
+  {
+    "killer" : "Hag"
+  },
+  {
+    "killer" : "Doctor"
+  },
+  {
+    "killer" : "Huntress"
+  },
+  {
+    "killer" : "Cannibal"
+  },
+  {
+    "killer" : "Nightmare"
+  },
+  {
+    "killer" : "Pig"
+  },
+  {
+    "killer" : "Clown"
+  },
+  {
+    "killer" : "Spirit"
+  },
+  {
+    "killer" : "Legion"
+  },
+  {
+    "killer" : "Plague"
+  },
+  {
+    "killer" : "Ghost Face"
+  },
+  {
+    "killer" : "Demogorgon"
+  },
+  {
+    "killer" : "Oni"
+  },
+  {
+    "killer" : "Deathslinger"
+  },
+  {
+    "killer" : "Executioner"
+  },
+  {
+    "killer" : "Blight"
+  },
+  {
+    "killer" : "Twins"
+  },
+  {
+    "killer" : "Trickster"
+  },
+  {
+    "killer" : "Cenobite"
+  },
+  {
+    "killer" : "Artist"
+  },
+  {
+    "killer" : "Onryō"
+  },
+  {
+    "killer" : "Dredge"
+  },
+  {
+    "killer" : "Mastermind"
+  },
+  {
+    "killer" : "Knight"
+  },
+  {
+    "killer" : "Skull Merchant"
+  },
+  {
+    "killer" : "Singularity"
+  },
+  {
+    "killer" : "Xenomorph"
+  },
+  {
+    "killer" : "Good Guy"
+  }
+]
