@@ -5,7 +5,23 @@
     "2" : "Bear Oil",
     "3" : "Makeshift Wrap",
     "4" : "Padded Jaws",
-    "5" : "Trapper Gloves"
+    "5" : "Trapper Gloves",
+    "6" : "4-Coil Spring Kit",
+    "7" : "Coffee Grounds",
+    "8" : "Lengthened Jaws",
+    "9" : "Serrated Jaws",
+    "10": "Wax Brick",
+    "11": "Fastening Tools",
+    "12": "Rusted Jaws",
+    "13": "Secondary Coil",
+    "14": "Tar Bottle",
+    "15": "Trapper Bag",
+    "16": "Honing Stone",
+    "17": "Oily Coil",
+    "18": "Tension Spring",
+    "19": "Trapper Sack",
+    "20": "Bloody Coil",
+    "21": "Iridescent Stone"
 
   },
   {
@@ -23,7 +39,28 @@
     "killer" : "Shape"
   },
   {
-    "killer" : "Hag"
+    "killer" : "Hag",
+    "1" : "None",
+    "2" : "Bog Water",
+    "3" : "Dead Fly Mud",
+    "4" : "Powdered Eggshell",
+    "5" : "Rope Necklet",
+    "6" : "Bloodied Water",
+    "7" : "Cypress Necklet",
+    "8" : "Dragonfly Wings",
+    "9" : "Half Eggshell",
+    "10": "Pussy Willow Catkins",
+    "11": "Bloodied Mud",
+    "12": "Cracked Turtle Egg",
+    "13": "Dried Cicada",
+    "14": "Swamp Orchid Necklet",
+    "15": "Willow Wreath",
+    "16": "Disfigured Ear",
+    "17": "Grandma's Heart",
+    "18": "Rusty Shackles",
+    "19": "Scarred Hand",
+    "20": "Mint Rag",
+    "21": "Waterlogged Shoe"
   },
   {
     "killer" : "Doctor"
@@ -41,7 +78,28 @@
     "killer" : "Pig"
   },
   {
-    "killer" : "Clown"
+    "killer" : "Clown",
+    "1" : "None",
+    "2" : "Fingerless Parade Gloves",
+    "3" : "Party Bottle",
+    "4" : "Robin Feather",
+    "5" : "VHS Porn",
+    "6" : "Kerosene Can",
+    "7" : "Solvent Jug",
+    "8" : "Starling Feather",
+    "9" : "Sticky Soda Bottle",
+    "10": "Thick Cork Stopper",
+    "11": "Bottle of Chloroform",
+    "12": "Flask of Bleach",
+    "13": "Smelly Inner Shoes",
+    "14": "Spirit of Hartshorn",
+    "15": "Sulphuric Acid Vial",
+    "16": "Cheap Gin Bottle",
+    "17": "Cigar Box",
+    "18": "Ether 15 Vol%",
+    "19": "Garish Make-Up Kit",
+    "20": "Redhead's Pinkie Finger",
+    "21": "Tattoo's Middle Finger"
   },
   {
     "killer" : "Spirit"
@@ -68,10 +126,52 @@
     "killer" : "Executioner"
   },
   {
-    "killer" : "Blight"
+    "killer" : "Blight",
+    "1" : "None",
+    "2" : "Chipped Monocle",
+    "3" : "Compound Seven",
+    "4" : "Foxglove",
+    "5" : "Placebo Tablet",
+    "6" : "Blighted Rat",
+    "7" : "Canker Thorn",
+    "8" : "Plague Bile",
+    "9" : "Pustula Dust",
+    "10": "Shredded Notes",
+    "11": "Adrenaline Vial",
+    "12": "Blighted Crow",
+    "13": "Compound Twenty-One",
+    "14": "Rose Tonic",
+    "15": "Umbra Salts",
+    "16": "Alchemist's Ring",
+    "17": "Soul Chemical",
+    "18": "Summoning Stone",
+    "19": "Vigo's Journal",
+    "20": "Compound Thirty-Three",
+    "21": "Iridescent Blight Tag"
   },
   {
-    "killer" : "Twins"
+    "killer" : "Twins",
+    "1" : "None",
+    "2" : "Cat Figurine",
+    "3" : "Soured Milk",
+    "4" : "Tiny Fingernail",
+    "5" : "Toy Sword",
+    "6" : "Baby Teeth",
+    "7" : "Bloody Black Hood",
+    "8" : "Cat's Eye",
+    "9" : "Ceremonial Candelabrum",
+    "10": "Madeleine's Glove",
+    "11": "Madeleine's Scarf",
+    "12": "Rusted Needle",
+    "13": "Sewer Sludge",
+    "14": "Stale Biscuit",
+    "15": "Weighty Rattle",
+    "16": "Drop of Perfume",
+    "17": "Forest Stew",
+    "18": "Spinning Top",
+    "19": "Victor's Soldier",
+    "20": "Iridescent Pendant",
+    "21": "Silencing Cloth"
   },
   {
     "killer" : "Trickster"
@@ -80,7 +180,28 @@
     "killer" : "Cenobite"
   },
   {
-    "killer" : "Artist"
+    "killer" : "Artist",
+    "1" : "None",
+    "2" : "Choclo Corn",
+    "3" : "Oil Paints",
+    "4" : "Thick Tar",
+    "5" : "Vibrant Obituary",
+    "6" : "Automatic Drawing",
+    "7" : "Festering Carrion",
+    "8" : "Still Life Crow",
+    "9" : "Untitled Agony",
+    "10": "Velvet Fabric",
+    "11": "Charcoal Stick",
+    "12": "Darkest Ink",
+    "13": "O Grief, O Lover",
+    "14": "Silver Bell",
+    "15": "Thorny Nest",
+    "16": "Ink Egg",
+    "17": "Matias' Baby Shoes",
+    "18": "Severed Hands",
+    "19": "Severed Tongue",
+    "20": "Garden of Rot",
+    "21": "Iridescent Feather"
   },
   {
     "killer" : "Onryō"
@@ -105,5 +226,12 @@
   },
   {
     "killer" : "Good Guy"
+  },
+  {
+    "killer" : "Unknown"
+  },
+  {
+    "killer" : "Lich"
   }
+
 ]
