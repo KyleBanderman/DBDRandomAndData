@@ -30,13 +30,55 @@
     "2" : "Brown2"
   },
   {
-    "killer" : "Hillbilly"
+    "killer" : "Hillbilly",
+    "1" : "None",
+    "2" : "Counterweight",
+    "3" : "Cracked Primer Bulb",
+    "4" : "Dad's Boots",
+    "5" : "Steel Toe Boots",
+    "6" : "Clogged Intake",
+    "7" : "Greased Throttle",
+    "8" : "Off-Brand Motor Oil",
+    "9" : "Spiked Boots",
+    "10": "Thermal Casing",
+    "11": "Begrimed Chains",
+    "12": "Discarded Air Filter",
+    "13": "Low Kickback Chains",
+    "14": "Ragged Engine",
+    "15": "The Thompsons' Mix",
+    "16": "Apex Muffler",
+    "17": "Filthy Slippers",
+    "18": "High-Speed Idler Screw",
+    "19": "LoPro Chains",
+    "20": "Iridescent Engravings",
+    "21": "Tuned Carburettor"
   },
   {
     "killer" : "Nurse"
   },
   {
-    "killer" : "Shape"
+    "killer" : "Shape",
+    "1" : "None",
+    "2" : "Blond Hair",
+    "3" : "Boyfriend's Memo",
+    "4" : "Memorial Flower",
+    "5" : "Tacky Earrings",
+    "6" : "Dead Rabbit",
+    "7" : "Glass Fragment",
+    "8" : "Hair Brush",
+    "9" : "Jewellery",
+    "10": "Reflective Fragment",
+    "11": "Hair Bow",
+    "12": "J. Myers Memorial",
+    "13": "Jewellery Box",
+    "14": "Judith's Journal",
+    "15": "Mirror Shard",
+    "16": "Lock of Hair",
+    "17": "Scratched Mirror",
+    "18": "Tombstone Piece",
+    "19": "Vanity Mirror",
+    "20": "Fragrant Tuft of Hair",
+    "21": "Judith's Tombstone"
   },
   {
     "killer" : "Hag",
@@ -63,16 +105,79 @@
     "21": "Waterlogged Shoe"
   },
   {
-    "killer" : "Doctor"
+    "killer" : "Doctor",
+    "1" : "None",
+    "2" : "\"Calm\" - Class I",
+    "3" : "\"Order\" - Class I",
+    "4" : "Maple Knight",
+    "5" : "Mouldy Electrode",
+    "6" : "\"Calm\" - Class II",
+    "7" : "\"Discipline\" - Class II",
+    "8" : "\"Order\" - Class II",
+    "9" : "\"Restraint\" - Class II",
+    "10": "Polished Electrode",
+    "11": "\"Discipline\" - Class III",
+    "12": "\"Restraint\" - Class III",
+    "13": "High Stimulus Electrode",
+    "14": "Interview Tape",
+    "15": "Scrapped Tape",
+    "16": "\"Calm\" - Carter's Notes",
+    "17": "\"Discipline\" - Carter's Notes",
+    "18": "\"Order\" - Carter's Notes",
+    "19": "\"Restraint\" - Carter's Notes",
+    "20": "Iridescent King",
+    "21": "Iridescent Queen"
   },
   {
     "killer" : "Huntress"
   },
   {
-    "killer" : "Cannibal"
+    "killer" : "Cannibal",
+    "1" : "None",
+    "2" : "Chainsaw File",
+    "3" : "Spark Plug",
+    "4" : "Speed Limiter",
+    "5" : "Vegetable Oil",
+    "6" : "Chili",
+    "7" : "Homemade Muffler",
+    "8" : "Knife Scratches",
+    "9" : "Long Guide Bar",
+    "10": "Primer Bulb",
+    "11": "Begrimed Chains",
+    "12": "Grisly Chains",
+    "13": "Shop Lubricant",
+    "14": "The Beast's Marks",
+    "15": "The Grease",
+    "16": "Award-winning Chili",
+    "17": "Depth Gauge Rake",
+    "18": "Light Chassis",
+    "19": "Rusted Chains",
+    "20": "Carburettor Tuning Guide",
+    "21": "Iridescent Flesh"
   },
   {
-    "killer" : "Nightmare"
+    "killer" : "Nightmare",
+    "1" : "None",
+    "2" : "Garden Rake",
+    "3" : "Kid's Drawing",
+    "4" : "Sheep Block",
+    "5" : "Wool Shirt",
+    "6" : "Cat Block",
+    "7" : "Green Dress",
+    "8" : "Nancy's Sketch",
+    "9" : "Outdoor Rope",
+    "10": "Prototype Claws",
+    "11": "Blue Dress",
+    "12": "Jump Rope",
+    "13": "Nancy's Masterpiece",
+    "14": "Paint Thinner",
+    "15": "Unicorn Block",
+    "16": "\"Z\" Block",
+    "17": "Class Photo",
+    "18": "Pill Bottle",
+    "19": "Swing Chains",
+    "20": "Black Box",
+    "21": "Red Paint Brush"
   },
   {
     "killer" : "Pig"
@@ -105,7 +210,28 @@
     "killer" : "Spirit"
   },
   {
-    "killer" : "Legion"
+    "killer" : "Legion",
+    "1" : "None",
+    "2" : "Friendship Bracelet",
+    "3" : "Mischief List",
+    "4" : "Scratched Ruler",
+    "5" : "Smiley Face Pin",
+    "6" : "Defaced Smiley Pin",
+    "7" : "Etched Ruler",
+    "8" : "Julie's Mix Tape",
+    "9" : "Mural Sketch",
+    "10": "Never-Sleep Pills",
+    "11": "Joey's Mix Tape",
+    "12": "Stolen Sketch Book",
+    "13": "Stylish Sunglasses",
+    "14": "Susie's Mix Tape",
+    "15": "The Legion Pin",
+    "16": "BFFs",
+    "17": "Filthy Blade",
+    "18": "Frank's Mix Tape",
+    "19": "Stab Wounds Study",
+    "20": "Fuming Mix Tape",
+    "21": "Iridescent Button"
   },
   {
     "killer" : "Plague"
@@ -204,7 +330,28 @@
     "21": "Iridescent Feather"
   },
   {
-    "killer" : "Onryō"
+    "killer" : "Onryō",
+    "1" : "None",
+    "2" : "Cabin Sign",
+    "3" : "Mother's Mirror",
+    "4" : "Old Newspaper",
+    "5" : "Videotape Copy",
+    "6" : "Clump of Hair",
+    "7" : "Reiko's Watch",
+    "8" : "Sea-Soaked Cloth",
+    "9" : "Well Stone",
+    "10": "Yoichi's Fishing Net",
+    "11": "Bloody Fingernails",
+    "12": "Mother's Comb",
+    "13": "Rickety Pinwheel",
+    "14": "Ring Drawing",
+    "15": "Well Water",
+    "16": "Distorted Photo",
+    "17": "Tape Editing Deck",
+    "18": "Telephone",
+    "19": "VCR",
+    "20": "Iridescent Videotape",
+    "21": "Remote Control"
   },
   {
     "killer" : "Dredge"
@@ -213,16 +360,79 @@
     "killer" : "Mastermind"
   },
   {
-    "killer" : "Knight"
+    "killer" : "Knight",
+    "1" : "None",
+    "2" : "Gritty Lump",
+    "3" : "Map of the Realm",
+    "4" : "Pillaged Mead",
+    "5" : "Tattered Tabard",
+    "6" : "Battle Axe Head",
+    "7" : "Call to Arms",
+    "8" : "Cold Steel Manacles",
+    "9" : "Dried Horsemeat",
+    "10": "Treated Blade",
+    "11": "Broken Hilt",
+    "12": "Chain Mail Fragment",
+    "13": "Grim Iron Mask",
+    "14": "Ironworker's Tongs",
+    "15": "Town Watch's Torch",
+    "16": "Blacksmith's Hammer",
+    "17": "Flint and Steel",
+    "18": "Healing Poultice",
+    "19": "Lightweight Greaves",
+    "20": "Iridescent Company Banner",
+    "21": "Knight's Contract"
   },
   {
-    "killer" : "Skull Merchant"
+    "killer" : "Skull Merchant",
+    "1" : "None",
+    "2" : "Adi Valente Issue 1",
+    "3" : "High-Current Upgrade",
+    "4" : "High-Power Floodlight",
+    "5" : "Ultrasonic Speaker",
+    "6" : "Adaptive Lighting",
+    "7" : "Low-Power Mode",
+    "8" : "Shotgun Speakers",
+    "9" : "Stereo Remote Mic",
+    "10": "Supercharge",
+    "11": "Brown Noise Generator",
+    "12": "Infrared Upgrade",
+    "13": "Loose Screw",
+    "14": "Powdered Glass",
+    "15": "Vital Targeting Processor",
+    "16": "Advanced Movement Prediction",
+    "17": "Geographical Readout",
+    "18": "Prototype Rotor",
+    "19": "Randomized Strobes",
+    "20": "Expired Batteries",
+    "21": "Iridescent Unpublished Manuscript"
   },
   {
     "killer" : "Singularity"
   },
   {
-    "killer" : "Xenomorph"
+    "killer" : "Xenomorph",
+    "1" : "None",
+    "2" : "Cereal Rations",
+    "3" : "Drinking Bird",
+    "4" : "Ovomorph",
+    "5" : "Ripley's Watch",
+    "6" : "Ash's Innards",
+    "7" : "Brett's Cap",
+    "8" : "Crew Headset",
+    "9" : "Lambert's Star Map",
+    "10": "Light Wand",
+    "11": "Emergency Helmet",
+    "12": "Kane's Helmet",
+    "13": "Moulted Skin",
+    "14": "Multipurpose Hatchet",
+    "15": "Parker's Headband",
+    "16": "Cat Carrier",
+    "17": "Harpoon Gun",
+    "18": "Self-Destruct Bolt",
+    "19": "Semiotic Keyboard",
+    "20": "Acidic Blood",
+    "21": "Improvised Cattle Prod"
   },
   {
     "killer" : "Good Guy"
@@ -233,5 +443,4 @@
   {
     "killer" : "Lich"
   }
-
 ]
