@@ -129,7 +129,28 @@
     "21": "Iridescent Queen"
   },
   {
-    "killer" : "Huntress"
+    "killer" : "Huntress",
+    "1": "None",
+    "2" : "Amanita Toxin",
+    "3" : "Bandaged Haft",
+    "4" : "Coarse Stone",
+    "5" : "Yellowed Cloth",
+    "6" : "Leather Loop",
+    "7" : "Manna Grass Braid",
+    "8" : "Oak Haft",
+    "9" : "Shiny Pin",
+    "10" : "Weighted Pin",
+    "11": "Deerskin Gloves",
+    "12": "Flower Babushka",
+    "13": "Rose Root",
+    "14": "Rusty Head",
+    "15": "Venomous Concoction",
+    "16": "Begrimed Head",
+    "17": "Glowing Concoction",
+    "18": "Infantry Belt",
+    "19": "Wooden Fox",
+    "20": "Iridescent Head",
+    "21": "Soldier's Puttee"
   },
   {
     "killer" : "Cannibal",
@@ -180,7 +201,28 @@
     "21": "Red Paint Brush"
   },
   {
-    "killer" : "Pig"
+    "killer" : "Pig",
+    "1" : "None",
+    "2" : "Combat Straps",
+    "3" : "Interlocking Razor",
+    "4" : "John's Medical File",
+    "5" : "Shattered Syringe",
+    "6" : "Face Mask",
+    "7" : "Last Will",
+    "8" : "Razor Wires",
+    "9" : "Utility Blades",
+    "10": "Workshop Grease",
+    "11": "Bag of Gears",
+    "12": "Jigsaw's Annotated Plan",
+    "13": "Rules Set No.2",
+    "14": "Rusty Attachments",
+    "15": "Slow-Release Toxin",
+    "16": "Amanda's Secret",
+    "17": "Crate of Gears",
+    "18": "Jigsaw's Sketch",
+    "19": "Tampered Timer",
+    "20": "Amanda's Letter",
+    "21": "Video Tape"
   },
   {
     "killer" : "Clown",
@@ -237,16 +279,79 @@
     "killer" : "Plague"
   },
   {
-    "killer" : "Ghost Face"
+    "killer" : "Ghost Face",
+    "1" : "None",
+    "2" : "\"Philly\"",
+    "3" : "Cheap Cologne",
+    "4" : "Headline Cut-Outs",
+    "5" : "Walleye's Matchbook",
+    "6" : "Cinch Straps",
+    "7" : "Marked Map",
+    "8" : "Olsen's Address Book",
+    "9" : "Olsen's Journal",
+    "10": "Telephoto Lens",
+    "11": "Chewed Pen",
+    "12": "Knife Belt Clip",
+    "13": "Lasting Perfume",
+    "14": "Leather Knife Sheath",
+    "15": "Olsen's Wallet",
+    "16": "Driver's License",
+    "17": "Drop-Leg Knife Sheath",
+    "18": "Night Vision Monocular",
+    "19": "Victim's Detailed Routine",
+    "20": "\"Ghost Face Caught on Tape\"",
+    "21": "Outdoor Security Camera"
   },
   {
-    "killer" : "Demogorgon"
+    "killer" : "Demogorgon",
+    "1" : "None",
+    "2" : "Black Heart",
+    "3" : "Rat Liver",
+    "4" : "Rat Tail",
+    "5" : "Rotten Pumpkin",
+    "6" : "Barb's Glasses",
+    "7" : "Mews' Guts",
+    "8" : "Rotten Green Tripe",
+    "9" : "Sticky Lining",
+    "10": "Viscous Webbing",
+    "11": "Brass Case Lighter",
+    "12": "Deer Lung",
+    "13": "Eleven's Soda",
+    "14": "Thorny Vines",
+    "15": "Violet Waxcap",
+    "16": "Lifeguard Whistle",
+    "17": "Unknown Egg",
+    "18": "Upside Down Resin",
+    "19": "Vermilion Webcap",
+    "20": "Leprose Lichen",
+    "21": "Red Moss"
   },
   {
     "killer" : "Oni"
   },
   {
-    "killer" : "Deathslinger"
+    "killer" : "Deathslinger",
+    "1" : "None",
+    "2" : "Modified Ammo Belt",
+    "3" : "Rickety Chain",
+    "4" : "Snake Oil",
+    "5" : "Spit Polish Rag",
+    "6" : "Chewing Tobacco",
+    "7" : "Jaw Smasher",
+    "8" : "Marshal's Badge",
+    "9" : "Poison Oak Leaves",
+    "10": "Rusted Spike",
+    "11": "Bayshore's Gold Tooth",
+    "12": "Honey Locust Thorn",
+    "13": "Tin Oil Can",
+    "14": "Wanted Poster",
+    "15": "Warden's Keys",
+    "16": "Barbed Wire",
+    "17": "Bayshore's Cigar",
+    "18": "Gold Creek Whiskey",
+    "19": "Prison Chain",
+    "20": "Hellshire Iron",
+    "21": "Iridescent Coin"
   },
   {
     "killer" : "Executioner"
@@ -408,7 +513,28 @@
     "21": "Iridescent Unpublished Manuscript"
   },
   {
-    "killer" : "Singularity"
+    "killer" : "Singularity",
+    "1" : "None",
+    "2" : "Broken Security Key",
+    "3" : "Heavy Water",
+    "4" : "Kid's Ball Glove",
+    "5" : "Nutritional Slurry",
+    "6" : "Android Arm",
+    "7" : "Cremated Remains",
+    "8" : "Cryo Gel",
+    "9" : "Diagnostic Tool (Repair)",
+    "10": "Ultrasonic Sensor",
+    "11": "Hologram Generator",
+    "12": "Hyperawareness Spray",
+    "13": "Live Wires",
+    "14": "Nanomachine Gel",
+    "15": "Spent Oxygen Tank",
+    "16": "Crew Manifest",
+    "17": "Diagnostic Tool (Construction)",
+    "18": "Foreign Plant Fibres",
+    "19": "Soma Family Photo",
+    "20": "Denied Requisition Form",
+    "21": "Iridescent Crystal Shard"
   },
   {
     "killer" : "Xenomorph",
@@ -435,7 +561,28 @@
     "21": "Improvised Cattle Prod"
   },
   {
-    "killer" : "Good Guy"
+    "killer" : "Good Guy",
+    "1" : "None",
+    "2" : "Doll Eyes",
+    "3" : "Good Guy Box",
+    "4" : "Strobing Light",
+    "5" : "Tiny Scalpel",
+    "6" : "Automatic Screwdriver",
+    "7" : "Electric Carving Knife",
+    "8" : "Hair Spray & Candle",
+    "9" : "Jump Rope",
+    "10": "Power Drill",
+    "11": "Portable TV",
+    "12": "Rat Poison",
+    "13": "Running Shoes",
+    "14": "Silk Pillow",
+    "15": "Yardstick",
+    "16": "Mirror Shards",
+    "17": "Pile of Nails",
+    "18": "Plastic Bag",
+    "19": "Straight Razor",
+    "20": "Hard Hat",
+    "21": "Iridescent Amulet"
   },
   {
     "killer" : "Unknown"
